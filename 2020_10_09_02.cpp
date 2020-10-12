@@ -1,4 +1,5 @@
-/* 2020_10_09_02 - Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/ */
+/* 2020_10_09_02 - Merge Sorted Array 
+https://leetcode.com/problems/merge-sorted-array/ */
 
 #include <iostream>
 using namespace std;
